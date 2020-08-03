@@ -2,11 +2,12 @@
 ### Few notes
 
 1. Used redux (WeatherReducer.js) to manage application wide state in the form of single store. See comments inline code for explaination.
-2. Used few react hooks like useEffect, useDispatch, useSelector. There was not much scope for others like useState..
-3. Example of HOC component for templating views. See WeatherTableTemplate.jsx
-4. See Views.jsx which composes different views using the above template.
-5. Sample unit tests to demonstrate tesing JSX components, reducers. Happy to explain unit testing other areas of the app like action creators etc..
-6. Any queries feel free to ask.
+2. Refresh button - I have made the data load to randomly fail to demonstrate error handling as requested.
+3. Used few react hooks like useEffect, useDispatch, useSelector. There was not much scope for others like useState..
+4. Example of HOC component for templating views. See WeatherTableTemplate.jsx
+5. See Views.jsx which composes different views using the above template.
+6. Sample unit tests to demonstrate tesing JSX components, reducers. Happy to explain unit testing other areas of the app like action creators etc..
+7. Any queries feel free to ask.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
