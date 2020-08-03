@@ -6,8 +6,9 @@
 3. Used few react hooks like useEffect, useDispatch, useSelector. There was not much scope for others like useState..
 4. Example of HOC component for templating views. See WeatherTableTemplate.jsx
 5. See Views.jsx which composes different views using the above template.
-6. Sample unit tests to demonstrate tesing JSX components, reducers. Happy to explain unit testing other areas of the app like action creators etc..
-7. Any queries feel free to ask.
+6. Used selector(selectors/index.js) to apply formatting. Please see inline comments for explaination.
+7. Sample unit tests to demonstrate tesing JSX components, reducers. Happy to explain unit testing other areas of the app like action creators etc..
+8. Any queries feel free to ask.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
